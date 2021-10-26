@@ -1,0 +1,14 @@
+{
+  "name": "@g2crowd/commitlint-config-g2",
+  "version": "0.0.1",
+  "description": "Commitlint support for G2 github repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgeny Karpov <ekarpov@g2.com>",
+  "license": "MIT",
+  "bin": {
+    "init-commitlint-config-g2": "bin/init-commitlint-config-g2"
+  }
+}
