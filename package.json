@@ -1,0 +1,27 @@
+{
+  "name": "@g2crowd/commitlint-config-g2",
+  "version": "1.0.0",
+  "description": "G2 commitlint configuration",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g2crowd/commitlint-config-g2.git"
+  },
+  "keywords": [
+    "commitlint",
+    "git",
+    "g2"
+  ],
+  "homepage": "https://github.com/g2crowd/commitlint-config-g2#readme",
+  "dependencies": {
+    "@commitlint/config-conventional": "^13.2.0"
+  },
+  "files": [
+    "base.js",
+    "index.js"
+  ]
+}
