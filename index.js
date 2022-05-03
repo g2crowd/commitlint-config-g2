@@ -5,6 +5,7 @@ const JIRA_PROJECTS = [
   'PA',
   'PAF',
   'PARR',
+  'PII',
   'PISCS',
   'PO',
   'PSI',
