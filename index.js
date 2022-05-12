@@ -1,5 +1,8 @@
 const JIRA_PROJECTS = [
   'COM',
+  'G2TSUPRT',
+  'GTP',
+  'IN',
   'INT',
   'LABS',
   'PA',
@@ -10,6 +13,11 @@ const JIRA_PROJECTS = [
   'PO',
   'PSI',
   'PUB',
+  'TRK',
+  'TRKP',
+  'TRKFI',
+  'TRKINTEG',
+  'TSA',
   'UGC'
 ];
 
