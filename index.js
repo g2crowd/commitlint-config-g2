@@ -11,6 +11,7 @@ const JIRA_PROJECTS = [
   'PARR',
   'PISCS',
   'PO',
+  'PSCD',
   'PSI',
   'PUB',
   'TRK',

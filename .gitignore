@@ -105,3 +105,6 @@ dist
 
 # JetBrains config
 .idea
+
+# VSCode
+.vscode
