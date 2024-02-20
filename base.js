@@ -29,7 +29,9 @@ module.exports = {
         'style',
         'test'
       ]
-    ]
+    ],
+    'scope-case': [2, 'always', 'lower-case'],
+    'scope-enum': [2, 'always', ['deps', 'repo', 'release', 'deps-dev']]
   },
   prompt: {
     questions: {
