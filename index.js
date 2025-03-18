@@ -19,7 +19,8 @@ const JIRA_PROJECTS = [
   'TRKFI',
   'TRKINTEG',
   'TSA',
-  'UGC'
+  'UGC',
+  'UW'
 ];
 
 module.exports = {
