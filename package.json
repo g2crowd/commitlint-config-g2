@@ -21,8 +21,12 @@
     "@commitlint/config-conventional": "^14.1.0",
     "conventional-changelog-conventionalcommits": "^4.6.1"
   },
+  "resolutions": {
+    "lodash": "^4.18.1"
+  },
   "files": [
     "base.js",
     "index.js"
-  ]
+  ],
+  "packageManager": "yarn@4.18.1"
 }
